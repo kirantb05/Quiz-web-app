@@ -267,9 +267,9 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Kiran T B
+## 👨‍💻 Kiran 
 
-Your Name  
+Kiran T B  
 GitHub: https://github.com/kirantb05  
 
 ---
