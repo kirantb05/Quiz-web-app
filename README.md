@@ -62,7 +62,7 @@ MySQL Database (quizdb)
 ### Frontend
 - React.js (Vite)
 - CSS
-- Axios (API communication)
+- fetch (API communication)
 
 ### Backend
 - Spring Boot
@@ -97,8 +97,8 @@ If you change ports, update:
 ### 🔹 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/kirantb05/Quiz-web-app.git
+cd Quiz-web-app
 ```
 
 ---
