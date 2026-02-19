@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-image: url(../assets/back3.webp); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+    backdrop-filter: blur(30px);
+   
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  place-items: center;
+  background-color: transparent;
+  backdrop-filter: blur(30px);
+  width:650px;
+  margin:0% 0 0% 26.5%;
+  border:1px outset white;
+  border-radius:40px;
+  flex-direction: column;
+  flex:1;
+  padding: 10rem 0 0 0;
+  
+  
+
+}
+
+.txt{
+    color:white;
+    margin: 10px;
+    font-size: 30px;
+    text-decoration: overline;
+
+}
+
+.btn{
+    font-family: cursive;
+    border:1px inset white;
+    height: 40px;
+    width:90px;
+    margin:50% 0 0 0;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+#inputTag{
+    margin:100px 0 0 0;
+    width:20rem;
+    height:3rem;
+    text-align: center;
+    border: 1px inset lightskyblue;
+    border-radius: 20px;
+
+}
+
+.container{
+    color:white;
+}
